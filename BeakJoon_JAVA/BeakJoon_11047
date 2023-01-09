@@ -28,6 +28,6 @@ public class BeakJoon_11047 {
 			}
 		System.out.println(cnt);
 		}
-
+ 
 	}
 
