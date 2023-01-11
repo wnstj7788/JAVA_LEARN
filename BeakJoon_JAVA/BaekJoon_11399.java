@@ -1,11 +1,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class BeakJoon__11399 {
+public class BaekJoon_11399 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
-<<<<<<< HEAD
+
 		int num = sc.nextInt(); //줄 서 있는 인원 입
 		
 		
@@ -22,24 +21,24 @@ public class BeakJoon__11399 {
 		for(int i =0; i < num; i++) {
 			total_time += arr[i] + sum; //전체 시간은 전체시간 + 배열의 i번째 요소  + 현재 더하고 있는 값 
 			sum += arr[i]; // 현재 더해지고 있는 
-=======
-		int num = sc.nextInt();
-		
-		
-		int[] arr = new int[num];
-		
-		for(int i = 0; i <num; i++) {
-			arr[i] = sc.nextInt();
-		}
-		
-		Arrays.sort(arr);
-		
-		int total_time = 0;
-		int sum = 0;
-		for(int i =0; i < num; i++) {
-			total_time += arr[i] + sum;
-			sum += arr[i];
->>>>>>> refs/remotes/origin/master
+			
+//		int num = sc.nextInt();
+//		
+//		
+//		int[] arr = new int[num];
+//		
+//		for(int i = 0; i <num; i++) {
+//			arr[i] = sc.nextInt();
+//		}
+//		
+//		Arrays.sort(arr);
+//		
+//		int total_time = 0;
+//		int sum = 0;
+//		for(int i =0; i < num; i++) {
+//			total_time += arr[i] + sum;
+//			sum += arr[i];
+
 			
 			
 		}

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Scanner;
 //공백 하나 입력을 고려 
-public class beakJoon_1152 {
+public class BaekJoon_1152 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
