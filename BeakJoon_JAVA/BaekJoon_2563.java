@@ -6,18 +6,18 @@ import java.util.Scanner;
 public class BaekJoon_2563 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		boolean map[][] = new boolean[100][100];
+		boolean map[][] = new boolean[100][100]; //100 * 100 맵 생
 
 		int p = sc.nextInt();
 
 
 		for (int pn = 0; pn < p; pn++) {
-			int r = sc.nextInt();
+			int r = sc.nextInt(); 
 			int c = sc.nextInt();
 
 			for (int i = r; i < r + 10; i++) {
 				for (int j = c; j < c + 10; j++) {
-					map[i][j]= true;
+					map[i][j]= true; //색종이가 있는 구역이라면 해당 부분을 true로 변경 
 
 				}
 			}
@@ -26,7 +26,7 @@ public class BaekJoon_2563 {
 		for (int i = 0; i < 100; i++) {
 			for (int j = 0; j < 100; j++) {
 				if(map[i][j] == true) {
-					cnt += 1;
+					cnt += 1;// 색종이 부분 카운트 
 					
 
 					
