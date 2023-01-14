@@ -52,7 +52,7 @@ public class Excape_the_maze {
                 } 
             } 
         }
-        // 가장 오른쪽 아래까지의 최단 거리 반환
+        // 가장 오른쪽 아래까지의 최단 거리 반환하
         return graph[n - 1][m - 1];
     }
 
