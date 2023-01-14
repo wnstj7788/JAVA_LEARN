@@ -2,12 +2,12 @@ import java.util.*;
 
 public class BFS {
 
-    public static boolean[] visited = new boolean[9];
-    public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
+    public static boolean[] visited = new boolean[9]; // 방문 여부 확인 
+    public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>(); // 그래프 선
 
     // BFS 함수 정의
     public static void bfs(int start) {
-        Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>(); //큐 선
         q.offer(start);
         // 현재 노드를 방문 처리
         visited[start] = true;
