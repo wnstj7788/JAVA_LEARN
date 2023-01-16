@@ -44,7 +44,7 @@ public class BaelJoon_1260 {
 
 		int N = sc.nextInt(), M = sc.nextInt(), V = sc.nextInt();
 
-		for (int i = 0; i <= N; i++) {
+		for (int i = 0; i <= N + 1; i++) {
 			graph.add(new ArrayList<Integer>());
 		}
 
@@ -53,7 +53,13 @@ public class BaelJoon_1260 {
 			
 			// 낮은게 먼저 들어가야 낮은걸 먼저 수행 할 수 있다.
 		}
-		graph.sort(null);
+		for (int i = 0; i <M ; i++) {
+		    Collections.sort(graph.get(i));
+		}
+		
+		
+		
+		
 
 		dfs(V);
 		System.out.println();
