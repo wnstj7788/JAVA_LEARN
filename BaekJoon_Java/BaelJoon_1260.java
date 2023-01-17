@@ -1,12 +1,12 @@
 import java.util.*;
 
-public class BaelJoon_1260 {
+public class BaekJoon_1260 {
 
 //	private static int N;
 	//인접리스트  문제 해결하기에는 한계가 있나?
 	//인접 리스트로 접근 시 작은 순서로 십입이 불가능? 
-	public static boolean[] visited_dfs = new boolean[10000];
-	public static boolean[] visited_bfs = new boolean[10000];
+	public static boolean[] visited_dfs = new boolean[1001];
+	public static boolean[] visited_bfs = new boolean[1001];
 	public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
 
 	public static void dfs(int x) {
@@ -44,20 +44,22 @@ public class BaelJoon_1260 {
 
 		int N = sc.nextInt(), M = sc.nextInt(), V = sc.nextInt();
 
-		for (int i = 0; i <= N + 1; i++) {
+		for (int i = 0; i < N + 1; i++) {
 			graph.add(new ArrayList<Integer>());
 		}
 
 		for (int j = 0; j < M; j++) {
-			graph.get(sc.nextInt()).add(sc.nextInt());
+			int v1 = sc.nextInt(); int v2 = sc.nextInt();
+			graph.get(v1).add(v2);
+			graph.get(v2).add(v1);
 			
 			// 낮은게 먼저 들어가야 낮은걸 먼저 수행 할 수 있다.
 		}
-		for (int i = 0; i <M ; i++) {
+		for (int i = 0; i <=N ; i++) {
 		    Collections.sort(graph.get(i));
 		}
 		
-		
+	
 		
 		
 
@@ -68,4 +70,3 @@ public class BaelJoon_1260 {
 	}
 
 }
-// 고려사항 간선이라면 낮은 것 부터 
