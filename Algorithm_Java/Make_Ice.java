@@ -1,5 +1,9 @@
 import java.util.*;
 
+// 접근 방법 0으로 이어져 있다면 인접한 노드라고 생각하기
+// 인접 행렬  방식으로 문제 접근 
+// 상하좌우 전부 이동해서 인접한 노드가 없다면 얼음 하나로 인지 
+
 
 public class Make_Ice{
 	
@@ -32,6 +36,7 @@ public class Make_Ice{
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 		m = sc.nextInt();
+		//버퍼 초기화 
 		sc.nextLine();
 		
 		// 2차원 리스트 입력 

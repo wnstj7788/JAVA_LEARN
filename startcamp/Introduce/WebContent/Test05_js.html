@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>자바 스크립트 실습</title>
+</head>
+<body>
+// 자바스크립트는 변수  var 와 let이 둘다 가능하지만 되도록 let 사용 
+	<div class = "aa" id = "ttt">aaa</div>
+	<div class = "aa">ccc</div>
+	<div>fff</div>
+	<div class = "aa">bbb</div>
+	<div class = "aa">ddd</div>
+	<div>zzz</div>  
+	<script type = "text/javascript">
+	
+	// 자바 스크립트 배열은 []를 쓴다 
+	let colors = ["red","orange","yellow","green"]
+	
+	//div 태그가 여러개 있을 수 있으므로 get하면 배열이 얻어진다 (div가 한개여도 길이 1짜리 배열이다 )
+	let divs = document.getElementsByTagName('div');
+	for(let i =0; i <divs.length; i++){
+		divs[i].style.backgroundColor = colors[i];
+	}
+	// id 속성은 태그에 유일하게 부여하는 이름이라 배열이 아니라 해당 태그 하나가 얻어진다 
+	let ttt = document.getElementById('ttt')
+		ttt.onclick = function(){
+			alert('오짬무?');
+		}
+	// 여러개의 div에 클릭 이벤트 처리를 다 해주고 싶다 
+	//divs[0].onclick = function(){};
+	// 자바 스크립트는 Function을 가지고 다닌다 
+	for(let = 0; i < divs.length; i++){ // funtion들이 다 비슷하면 바복문 처리도 가능함.
+		let text = divs[i].innerText;
+		console.log('클릭된 놈한테 이렇게 적혀있음 ' + text)
+	}
+
+	
+	</script>
+
+</body>
+</html>
