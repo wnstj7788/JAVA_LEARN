@@ -14,16 +14,17 @@ public class BJ_1654 {
 
 		Arrays.sort(arr);
 
-		System.out.println(binarySearch(arr, K));
+		binarySearch(arr, K);
 
 	}
 
-	public static long binarySearch(int[] arr, int K) {
+	public static void binarySearch(int[] arr, int K) {
 		int arrSize = arr.length;
 		// System.out.println("arrsize:" + arrSize);
 		long lowerBound = 1; // 랜선을 자르는 최소단위는 1이니 1로 설정
 		long upperBound = arr[arrSize - 1]; // 마지막 인덱스를 최대값으로 설정 정렬된 배열이 들어올 거임)
 		long mid = 0;
+		long ans = 0;
 		while (lowerBound <= upperBound) {// 교차하는 경우를 고려
 			 mid = (lowerBound + upperBound) / 2;
 			// System.out.println("나 미드"+ mid);
@@ -34,17 +35,15 @@ public class BJ_1654 {
 				cnt += arr[i] / mid;
 				// System.out.println(i + "cnt :" + cnt);
 			}
-			if (cnt == K) {
-				//System.out.println(mid);
-				break;
-			} else if (cnt >= K) {
+			if (cnt < K) {
 				// 크게 잘라야함 시작을 mid로변경하기
-				lowerBound = mid + 1;
-			} else if (cnt <= K) {
 				upperBound = mid - 1;
+			} else {
+				ans = mid;
+				lowerBound = mid + 1;
 			}
 		}
-		return mid;
+		System.out.println(ans );
 	}
 
 }
