@@ -28,14 +28,8 @@ public class BJ_6236_x {
 		for (int i = 0; i < arr.length; i++) {
 			upper += arr[i];
 		} 
-		int max = 0;
+
 		int lower = 1;
-		for (int i = 0; i < arr.length; i++) {
-			if(max <arr[i]) {
-				lower = max;
-			}
-		}
-		
 		int ans = 0;
 		int cnt = 0;
 
