@@ -16,7 +16,7 @@ public class BOJ_1149 {
 
 		for (int i = 1; i <= n; i++) {// 0번쨰 행은 0으로 초기화해야함으로 1번 행부터 시작
 			for (int j = 0; j < 3; j++) { // 순서대로 RGB
-//				map[i][j] = Integer.parseInt(br.readLine());
+//				map[i][j] = Integer.parseInt(br.readLine()); //짤라줘야함 
 				map[i][j] = sc.nextInt();
 			}
 		}
