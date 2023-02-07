@@ -17,7 +17,7 @@ public class BOJ_11279 {
 		@Override
 		public int compareTo(compare o) {
 			if(this.y == o.y)
-				return this.x - o.x; 
+				return this.x - o.x; 	
 			return this.y - o.y;
 		}
 		
