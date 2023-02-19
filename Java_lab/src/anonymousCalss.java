@@ -1,18 +1,15 @@
+import java.awt.Button;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class anonymousCalss {
-	//문법은 new 조상 클래스 이름(){} or new 구현 인터페이스 이름(){}
-	Object iv = new Object() {
-		void method() {}
-	};
-	
-	static Object cv = new Object() {
-		void method() {}
-	};
-	
-	void myMethod() {
-		Object lv = new Object() {
-			void method() {}
-		};
+	public static void main(String[] args) {
+		Button b = new Button("start");
+		b.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				System.out.println("ActionEvent occurred");
+			}
+
+		});
 	}
-	
 }
