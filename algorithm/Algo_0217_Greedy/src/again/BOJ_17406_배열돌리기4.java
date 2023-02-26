@@ -12,24 +12,24 @@ public class BOJ_17406_배열돌리기4 {
     static int[] result;
     
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         
-        n = scan.nextInt();
-        m = scan.nextInt();
-        int k = scan.nextInt();
+        n = sc.nextInt();
+        m = sc.nextInt();
+        int k = sc.nextInt();
         
         board = new int[n][m];
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-                board[i][j] = scan.nextInt();
+                board[i][j] = sc.nextInt();
             }
         }
         
         rotation = new int[k][3];
         for(int i = 0; i < k; i++) {
-            rotation[i][0] = scan.nextInt();
-            rotation[i][1] = scan.nextInt();
-            rotation[i][2] = scan.nextInt();
+            rotation[i][0] = sc.nextInt();
+            rotation[i][1] = sc.nextInt();
+            rotation[i][2] = sc.nextInt();
         }
         
         visited = new boolean[k];

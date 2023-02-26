@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ_14502_연구소 {
+public class BOJ_14502_연구소  {
 //바이러스는 상하좌우로 퍼저나갈 수 있다 = 4방 탐색
 //새로 세울 수 있는 벽의 개수 3개이고 전부 사용해야함 
 // 0 빈 칸, 1은 벽,  2는 바이러스
@@ -160,6 +160,8 @@ public class BOJ_14502_연구소 {
 		}
 		safecnt = Math.max(cnt, safecnt);
 	}
+
+
 
 	static class virus {
 		int x, y;

@@ -1,5 +1,6 @@
 package Samsung_Type_A_Test;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -19,7 +20,9 @@ class cctv { // cctv 클래스 생성
 
 }
 
-public class BOJ_15683_감시 {
+
+
+public class BOJ_15683_감시{
 	// 1번 cctv 한쪽만
 	// 2번 cctv 양쪽 -> 상하 or 좌우
 	// 3번 cctv 직각

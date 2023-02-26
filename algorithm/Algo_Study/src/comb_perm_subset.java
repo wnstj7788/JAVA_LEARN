@@ -93,5 +93,8 @@ public class comb_perm_subset {
 		subset(cnt + 1); // 현재원소 사용한하고 출발
 
 	}
+	
 
 }
+
+
