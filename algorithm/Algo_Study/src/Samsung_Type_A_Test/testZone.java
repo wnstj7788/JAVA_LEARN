@@ -18,11 +18,7 @@ public class testZone {
 				map[i][j] = sc.nextInt();
 				
 			}
-		}
-		
-		
-		
-		
+		}		
 		
 		
 		temp = map;
