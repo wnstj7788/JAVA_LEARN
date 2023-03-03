@@ -2,12 +2,14 @@ import java.awt.Point;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class SWEA_5656_벽돌깨기 {
+public class SWEA_5656_벽돌깨기2 {
 	/*
 	 * 1. 순서가 중요하고 같은 자리에 계속해서 볼을 던지 수 있다 = 중복을 허용하는 순열이다 2. BFS를 돌면서 4방을 깨는데 -1한
 	 * 결과가 0이 아니라면 queue에 넣어버려 3. 다양한 부분을 테스트해봐야하니까 원본배열을 회손하지 않는 복사 배열을 만들어서 실행을
@@ -22,6 +24,7 @@ public class SWEA_5656_벽돌깨기 {
 	static int dy[] = { 0, -1, 0, 1 };
 	static int result = Integer.MAX_VALUE;
 	static boolean[][] visited;
+	static int min;
 
 	static class Point {
 		int x;
@@ -67,6 +70,100 @@ public class SWEA_5656_벽돌깨기 {
 
 		} // tc end;
 
+	}
+
+	private static boolean go(int cnt, int[][] map) {
+
+		// 벽돌개수 파악
+		int resultcnt = count(map);
+		if (resultcnt == 0) {
+			min = 0;
+			return true;
+		}
+		if (cnt == N) {
+			if (min > resultcnt)
+				min = resultcnt;
+			return false;
+		}
+
+		int[][] newMap = deepcopy(map);
+
+		// 열에 모든 구슬 던져보기
+		for (int c = 0; c < W; c++) {
+			// 구슬에 처음 맞는 벽돌 찾기
+			int r = 0;
+			while (r < H && map[r][c] == 0)
+				++r;
+			if (r == H)
+				continue; // 맞는 벽돌이 없으면 다음 열에 던져보기
+
+			// 벽돌 부수기
+
+			boom(newMap, r, c);
+			// 벽돌 내리기
+			down(newMap);
+
+			// 다음 구슬 던지러가기
+			if (go(cnt + 1, newMap))
+				return true;
+		}
+
+		return false;
+	}
+
+	private static Stack<Integer> stack = new Stack<>();
+
+	private static void down(int[][] map) {
+		// 맨 아래행부터 위쪽 들여다보며 빈칸 만날때마다 내려놓을 벽돌 찾기
+		// 강 열에 대해 윗행부터 아래행까지 벽돌만 스택에 넣어두고 빼서 아래행부터 채유기
+		for (int c = 0; c < W; c++) {
+			for (int r = 0; r < H; r++) {
+				if (map[r][c] > 0) {
+					stack.push(map[r][c]);
+					map[r][c] = 0;
+				}
+
+			}
+			
+			int r = H-1;
+			while(!stack.isEmpty()) {
+				map[r--][c] = stack.pop();
+				
+			}
+				
+		}
+	}
+	
+
+	private static void boom(int[][] map, int r, int c) {
+		Queue<Point> queue = new ArrayDeque<>();
+		if (map[r][c] > 1) { // 인 녀석 필요없음
+			queue.add(new Point(r, c, map[r][c]));
+		}
+		map[r][c] = 0; // 방문첵
+		Point current;
+		while (!queue.isEmpty()) {
+			current = queue.poll();
+
+			// 현벽돌의 cnt -1만큼 4방 첷
+
+			for (int d = 0; d < 4; d++) { // 4방으로 한칸한칸 갈라면 반복문 순서 변경
+				int nr = current.x;
+				int nc = current.y;
+				for (int k = 1; k <= current.len - 1; k++) { // 한방향으로 쭉 가는 것
+					nr += dx[d];
+					nc += dy[d];
+					if (nr >= 0 && nr < H && nc >= 0 && nc < W && map[nr][nc] > 0) {
+						if (map[nr][nc] > 1) { // 인 녀석 필요없음
+							queue.add(new Point(nr, nc, map[nr][nc]));
+						}
+						map[nr][nc] = 0; // 방문첵
+
+					}
+				}
+			}
+
+		}
 	}
 
 	static void perm(int idx) {
@@ -140,7 +237,6 @@ public class SWEA_5656_벽돌깨기 {
 
 		}
 	}
-	
 
 	private static int count(int[][] temp) {
 		int cnt = 0;
