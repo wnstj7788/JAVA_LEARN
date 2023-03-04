@@ -5,33 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb82c675-92b0-400b-a50b-0e8482b1436e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo/Algo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo/jdbctsst/jdbctsst.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0206/Algo_0206.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0207/Algo_0207.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0208/Algo_0208.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0209/Algo_0209.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0213/Algo_0213.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0214/Algo_0214.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0215/Algo_0215.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0216/Algo_0216.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0217_Greedy/Algo_0217_Greedy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0220/Algo_0220.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0221/Algo_0221.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0222/Algo_0222.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0223/Algo_0223.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0224/Algo_0224.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_0303_/src/SWEA_2115_벌꿀채취.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alogo_0210/Algo_0210.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_0302/Algo_0302.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_0302/Algo_0302.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_0303_/Algo_0303_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_0303_/Algo_0303_.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/baaaaaaaaaakingDog_Dijkstra.iml" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/baaaaaaaaaakingDog_Dijkstra.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어$shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어$shark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어.class" beforeDir="false" afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/BOJ_16236_아기상어.java" beforeDir="false" afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/BOJ_16236_아기상어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17144_미세먼지안녕.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/SWEA_1249_보급로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어$shark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/BOJ_16236_아기상어.java" beforeDir="false" afterPath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_16236_아기상어.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,16 +50,44 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SWEA_1249_보급로">
     <configuration name="BOJ_16236_아기상어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_16236_아기상어" />
+      <option name="MAIN_CLASS_NAME" value="시뮬레이션_baaaaaaaaaakingDog.BOJ_16236_아기상어" />
       <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_17144_미세먼지안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="시뮬레이션_baaaaaaaaaakingDog.BOJ_17144_미세먼지안녕" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="시뮬레이션_baaaaaaaaaakingDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_1249_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="시뮬레이션_baaaaaaaaaakingDog.SWEA_1249_보급로" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="시뮬레이션_baaaaaaaaaakingDog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SWEA_1249_보급로" />
+        <item itemvalue="Application.BOJ_17144_미세먼지안녕" />
         <item itemvalue="Application.BOJ_16236_아기상어" />
       </list>
     </recent_temporary>
@@ -93,11 +101,26 @@
       <option name="presentableId" value="Default" />
       <updated>1677851840425</updated>
       <workItem from="1677851841606" duration="3358000" />
-      <workItem from="1677907037620" duration="8727000" />
+      <workItem from="1677907037620" duration="23695000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17144_미세먼지안녕.java</url>
+          <line>87</line>
+          <properties class="시뮬레이션_baaaaaaaaaakingDog.BOJ_17144_미세먼지안녕" method="wind">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

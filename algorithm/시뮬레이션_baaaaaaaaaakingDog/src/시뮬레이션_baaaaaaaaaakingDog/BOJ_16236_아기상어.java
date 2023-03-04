@@ -1,3 +1,5 @@
+package 시뮬레이션_baaaaaaaaaakingDog;
+
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.BufferedReader;
 import java.io.IOException;
