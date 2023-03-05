@@ -1,5 +1,3 @@
-package 시뮬레이션_baaaaaaaaaakingDog;
-
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,5 +1,3 @@
-package 시뮬레이션_baaaaaaaaaakingDog;
-
 import com.sun.jdi.Value;
 
 import java.io.BufferedReader;
