@@ -145,6 +145,6 @@ public class BOJ_16236_아기상어 {
             System.out.println();
 
         }
-        System.out.println("-0-----------------------------------------");
+        System.out.println("-------------------------------------------");
     }
 }
