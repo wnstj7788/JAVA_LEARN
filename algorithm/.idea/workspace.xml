@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb82c675-92b0-400b-a50b-0e8482b1436e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/baaaaaaaaaakingDog_BFS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_1926_그림.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_4179_불.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7562_나이트이동.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7576_토마토.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/baaaaaaaaaakingDog_시뮬레이션.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_16236_아기상어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17141_연구소2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17144_미세먼지안녕.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/SWEA_1249_보급로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/baaaaaaaaaakingDog_BFS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_1926_그림.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_4179_불.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_7562_나이트이동.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_7576_토마토.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/baaaaaaaaaakingDog_Dijkstra/BOJ_1916_최소비용구하기_인접리스트버전.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/BOJ_1916_최소비용구하기_인접리스트버전.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/baaaaaaaaaakingDog_Dijkstra/BOJ_1916_최소비용구하기_인접핼렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/BOJ_1916_최소비용구하기_인접핼렬.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/baaaaaaaaaakingDog_시뮬레이션.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/시뮬레이션_baaaaaaaaaakingDog/BOJ_17471_게리맨더링.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_16236_아기상어.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17144_미세먼지안녕.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17471_게리맨더링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/SWEA_1249_보급로.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MVTcyLSc90DXf3wcooVhPCRdNW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="baaaaaaaaaakingDog_Dijkstra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BOJ_17141_연구소2">
+    <configuration name="BOJ_16236_아기상어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_16236_아기상어" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_17141_연구소2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_17141_연구소2" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_17144_미세먼지안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_17144_미세먼지안녕" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_1249_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_1249_보급로" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ_17141_연구소2" />
+        <item itemvalue="Application.SWEA_1249_보급로" />
+        <item itemvalue="Application.BOJ_17144_미세먼지안녕" />
+        <item itemvalue="Application.BOJ_16236_아기상어" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb82c675-92b0-400b-a50b-0e8482b1436e" name="Changes" comment="" />
+      <created>1677851840425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677851840425</updated>
+      <workItem from="1677851841606" duration="3358000" />
+      <workItem from="1677907037620" duration="23695000" />
+      <workItem from="1678016944391" duration="6322000" />
+      <workItem from="1678023288273" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17144_미세먼지안녕.java</url>
+          <line>87</line>
+          <properties class="시뮬레이션_baaaaaaaaaakingDog.BOJ_17144_미세먼지안녕" method="wind">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
