@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb82c675-92b0-400b-a50b-0e8482b1436e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/baaaaaaaaaakingDog_BFS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_1926_그림.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_4179_불.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7562_나이트이동.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7576_토마토.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/baaaaaaaaaakingDog_시뮬레이션.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_16236_아기상어.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17141_연구소2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17144_미세먼지안녕.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/SWEA_1249_보급로.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/baaaaaaaaaakingDog_BFS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_1926_그림.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_4179_불.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_7562_나이트이동.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS_baaaaaaaaaakingDog/src/BOJ_7576_토마토.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/baaaaaaaaaakingDog_Dijkstra/BOJ_1916_최소비용구하기_인접리스트버전.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/BOJ_1916_최소비용구하기_인접리스트버전.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/baaaaaaaaaakingDog_Dijkstra/BOJ_1916_최소비용구하기_인접핼렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_Dijkstra/src/BOJ_1916_최소비용구하기_인접핼렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/baaaaaaaaaakingDog_시뮬레이션.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/시뮬레이션_baaaaaaaaaakingDog/BOJ_17471_게리맨더링.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_16236_아기상어.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17144_미세먼지안녕.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/BOJ_17471_게리맨더링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/src/시뮬레이션_baaaaaaaaaakingDog/SWEA_1249_보급로.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/bin/BOJ_7576_토마토.class" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +45,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -149,6 +122,9 @@
       <workItem from="1677907037620" duration="23695000" />
       <workItem from="1678016944391" duration="6322000" />
       <workItem from="1678023288273" duration="231000" />
+      <workItem from="1678023584518" duration="786000" />
+      <workItem from="1678024382364" duration="404000" />
+      <workItem from="1678025152220" duration="20000" />
     </task>
     <servers />
   </component>
@@ -161,7 +137,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17144_미세먼지안녕.java</url>
           <line>87</line>
-          <properties class="시뮬레이션_baaaaaaaaaakingDog.BOJ_17144_미세먼지안녕" method="wind">
+          <properties class="BOJ_17144_미세먼지안녕">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -169,5 +145,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
