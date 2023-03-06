@@ -69,7 +69,7 @@ public class BOJ_17141_연구소2 {
 
         if(result == Integer.MAX_VALUE){
             System.out.println(-1);
-        }else if(result == 0) {
+        }else if(result == 0 && zeroZone == cards.size()) {
             System.out.println(result);
         }else{
             System.out.println(result +1);
