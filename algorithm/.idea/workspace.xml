@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb82c675-92b0-400b-a50b-0e8482b1436e" name="Changes" comment="">
-<<<<<<< HEAD
+    <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algo_0307/Algo_0307.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/BOJ_7569_토마토.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/SWEA_5658_보물상자비밀번호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/SWEA_보급로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/TopologuSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/topolgysort_input_dist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_5427_불.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7569_토마토.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17281_야구.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17471_게리맨더링.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/bj17141_연구소2.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/Algo_0303_/src/SWEA_2115_벌꿀_교수님버전.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_BFS/src/BOJ_7578_토마토_Re.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/SWEA_1249_보급로_Re.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17141_연구소2.java" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17141_연구소2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/BOJ_16236_아기상어.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시뮬레이션_baaaaaaaaaakingDog/bin/시뮬레이션_baaaaaaaaaakingDog/BOJ_17471_게리맨더링.class" beforeDir="false" />
->>>>>>> df962db663e3e420daa69a020fd00db150b33855
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,80 +53,58 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-<<<<<<< HEAD
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-=======
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
->>>>>>> df962db663e3e420daa69a020fd00db150b33855
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_7578_토마토_Re">
-    <configuration name="BOJ_17141_연구소2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_17141_연구소2" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_17144_미세먼지안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_17144_미세먼지안녕" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_7578_토마토_Re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_7578_토마토_Re" />
+  <component name="RunManager" selected="Application.BOJ_5427_불">
+    <configuration name="BOJ_5427_불" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_5427_불" />
       <module name="baaaaaaaaaakingDog_BFS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1249_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_1249_보급로" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="BOJ_7569_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_7569_토마토" />
+      <module name="Algo_0307" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1249_보급로_Re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_1249_보급로_Re" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+    <configuration name="SWEA_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_보급로" />
+      <module name="Algo_0307" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_5658_보물상자비밀번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_5658_보물상자비밀번호" />
+      <module name="Algo_0307" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopologuSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopologuSort" />
+      <module name="Algo_0307" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_7578_토마토_Re" />
-        <item itemvalue="Application.SWEA_1249_보급로_Re" />
-        <item itemvalue="Application.BOJ_17141_연구소2" />
-        <item itemvalue="Application.SWEA_1249_보급로" />
-        <item itemvalue="Application.BOJ_17144_미세먼지안녕" />
+        <item itemvalue="Application.BOJ_5427_불" />
+        <item itemvalue="Application.SWEA_5658_보물상자비밀번호" />
+        <item itemvalue="Application.SWEA_보급로" />
+        <item itemvalue="Application.BOJ_7569_토마토" />
+        <item itemvalue="Application.TopologuSort" />
       </list>
     </recent_temporary>
   </component>
@@ -144,42 +120,18 @@
       <workItem from="1677907037620" duration="23695000" />
       <workItem from="1678016944391" duration="6322000" />
       <workItem from="1678023288273" duration="231000" />
-<<<<<<< HEAD
-      <workItem from="1678023584518" duration="786000" />
-      <workItem from="1678024382364" duration="404000" />
-      <workItem from="1678025152220" duration="20000" />
-=======
-      <workItem from="1678060862993" duration="7747000" />
-      <workItem from="1678069131350" duration="48000" />
-      <workItem from="1678069189616" duration="20000" />
-      <workItem from="1678069359890" duration="7781000" />
->>>>>>> df962db663e3e420daa69a020fd00db150b33855
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_17144_미세먼지안녕.java</url>
-          <line>87</line>
-          <properties class="BOJ_17144_미세먼지안녕">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-=======
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
->>>>>>> df962db663e3e420daa69a020fd00db150b33855
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.LinkedList)q).get(10)" custom="java.util.LinkedList" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
