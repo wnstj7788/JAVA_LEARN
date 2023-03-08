@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo_0307/src/BOJ_1541_잃어버린괄호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_0307/src/BOJ_1541_괄호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/src/BOJ_15685_드레곤커브.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/BOJ_17471_게리맨더링.class" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/BOJ_17471_게리맨더링.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/bj17141_연구소2$birus.class" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/bj17141_연구소2$birus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/bj17141_연구소2.class" beforeDir="false" afterPath="$PROJECT_DIR$/baaaaaaaaaakingDog_시뮬레이션/bin/bj17141_연구소2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +57,24 @@
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_5427_불">
-    <configuration name="BOJ_5427_불" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_5427_불" />
-      <module name="baaaaaaaaaakingDog_BFS" />
+  <component name="RunManager" selected="Application.BOJ_15685_드레곤커브">
+    <configuration name="BOJ_1541_괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1541_괄호" />
+      <module name="Algo_0307" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_7569_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_7569_토마토" />
-      <module name="Algo_0307" />
+    <configuration name="BOJ_15685_드레곤커브" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_15685_드레곤커브" />
+      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_5427_불" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_5427_불" />
+      <module name="baaaaaaaaaakingDog_BFS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopologuSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TopologuSort" />
-      <module name="Algo_0307" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_15685_드레곤커브" />
+        <item itemvalue="Application.BOJ_1541_괄호" />
         <item itemvalue="Application.BOJ_5427_불" />
         <item itemvalue="Application.SWEA_5658_보물상자비밀번호" />
         <item itemvalue="Application.SWEA_보급로" />
-        <item itemvalue="Application.BOJ_7569_토마토" />
-        <item itemvalue="Application.TopologuSort" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +116,9 @@
       <workItem from="1678016944391" duration="6322000" />
       <workItem from="1678023288273" duration="231000" />
       <workItem from="1678177235253" duration="1747000" />
+      <workItem from="1678187334674" duration="839000" />
+      <workItem from="1678198248268" duration="616000" />
+      <workItem from="1678280678489" duration="1989000" />
     </task>
     <servers />
   </component>
