@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReStore/ReStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReStore/src/BOJ_1541_잃어버린괄호_Re.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReStore/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReStore/src/BOJ_10974_Re.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +53,14 @@
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_1541_잃어버린괄호_Re">
+  <component name="RunManager" selected="Application.BOJ_10974_Re">
+    <configuration name="BOJ_10974_Re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_10974_Re" />
+      <module name="ReStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_14425_문자열집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.BOJ_14425_문자열집합" />
       <module name="Algo_Study" />
@@ -91,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_5427_불" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_5427_불" />
-      <module name="baaaaaaaaaakingDog_BFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_10974_Re" />
         <item itemvalue="Application.BOJ_1541_잃어버린괄호_Re" />
         <item itemvalue="Application.BOJ_14425_문자열집합" />
         <item itemvalue="Application.BOJ_15685_드레곤커브" />
         <item itemvalue="Application.BOJ_1541_괄호" />
-        <item itemvalue="Application.BOJ_5427_불" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +123,7 @@
       <workItem from="1678280678489" duration="1989000" />
       <workItem from="1678357613871" duration="3355000" />
       <workItem from="1678803399271" duration="2098000" />
+      <workItem from="1678887122438" duration="834000" />
     </task>
     <servers />
   </component>
