@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReStore/src/BOJ_10974_Re.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/LCA/BOJ_1148_LCA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReStore/src/BOJ_15651_N과M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReStore/src/BOJ_15686_치킨배달.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +56,17 @@
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_10974_Re">
+  <component name="RunManager" selected="Application.BOJ_1148_LCA2">
     <configuration name="BOJ_10974_Re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_10974_Re" />
       <module name="ReStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_1148_LCA2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1148_LCA2" />
+      <module name="Algo_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,13 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1541_괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1541_괄호" />
-      <module name="Algo_0307" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BOJ_1541_잃어버린괄호_Re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_1541_잃어버린괄호_Re" />
       <module name="ReStore" />
@@ -88,20 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_15685_드레곤커브" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_15685_드레곤커브" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
+    <configuration name="BOJ_15651_N과M" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_15651_N과M" />
+      <module name="ReStore" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_1148_LCA2" />
+        <item itemvalue="Application.BOJ_15651_N과M" />
         <item itemvalue="Application.BOJ_10974_Re" />
         <item itemvalue="Application.BOJ_1541_잃어버린괄호_Re" />
         <item itemvalue="Application.BOJ_14425_문자열집합" />
-        <item itemvalue="Application.BOJ_15685_드레곤커브" />
-        <item itemvalue="Application.BOJ_1541_괄호" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +127,8 @@
       <workItem from="1678357613871" duration="3355000" />
       <workItem from="1678803399271" duration="2098000" />
       <workItem from="1678887122438" duration="834000" />
+      <workItem from="1679134400871" duration="5357000" />
+      <workItem from="1679149564772" duration="1389000" />
     </task>
     <servers />
   </component>

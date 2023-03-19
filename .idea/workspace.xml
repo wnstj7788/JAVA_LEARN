@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfeeefa9-3d30-467f-8149-e0f7ae06d8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/Algo_0306/src/BOJ_9029_골드바흐의추측.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/Algo_Study/src/LCA/BOJ_1148_LCA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/ReStore/src/BOJ_15651_N과M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/ReStore/src/BOJ_15686_치킨배달.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MdqTlhxcKDS6qj4IYWspbQqMH2" />
   <component name="ProjectViewState">
@@ -22,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choijunseo/Desktop/java1",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/Code/JAVA_LEARN/algorithm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678107816309</updated>
       <workItem from="1678107817462" duration="17000" />
+      <workItem from="1679147005034" duration="1606000" />
     </task>
     <servers />
   </component>
