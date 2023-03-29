@@ -90,6 +90,6 @@ public class BOJ_17070_파이프옮기기1_교수님버전 {
 			
 		}
 	}
-	  ans=dp[N-1][N-1][right]+dp[N-1][N-1][down]+dp[N-1][N-1][cross];
+	//  ans=dp[N-1][N-1][right]+dp[N-1][N-1][down]+dp[N-1][N-1][cross];
 
 }
