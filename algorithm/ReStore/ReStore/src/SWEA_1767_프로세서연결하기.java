@@ -54,7 +54,7 @@ public class SWEA_1767_프로세서연결하기 {
 			for (int i = 0; i <end; i++) {
 				if(subsetIsSelected[i]) {
 					System.out.print(i + " ");
-				}
+				} 
 			}
 			System.out.println();
 			// 활성화 시킬 모든 경우로 comb  실행 
