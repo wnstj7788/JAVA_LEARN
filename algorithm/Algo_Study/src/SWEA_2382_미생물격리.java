@@ -86,9 +86,9 @@ public class SWEA_2382_미생물격리 {
 						// 기존의 들어온 녀석과 시간이 같은 녀석이라면 비교를 해야하는데 이를 위한 변수를 선언해주자
 						// 어떤 변수가 적합하지>
 						// 리스트 변수를 만들어서 해결하자 
-						visited[nx][ny] = new mini(nx,ny,)
+//						visited[nx][ny] = new mini(nx,ny,)
 						
-						q.add(new mimi(nx, ny, now.cnt + map[nx][ny], now.d));
+//						q.add(new mimi(nx, ny, now.cnt + map[nx][ny], now.d));
 						
 						map[now.x][now.y] = 0;
 						map[nx][ny] = now.cnt;
