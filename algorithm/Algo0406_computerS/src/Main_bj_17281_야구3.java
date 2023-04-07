@@ -1,5 +1,6 @@
 
 
+import java.util.Arrays;
 import java.util.Scanner;
 // 111 321
 // 안타   ( 111<<1 | 1 ) & 111 결과 -> 1111 & 111     1111 & 1000 !=0 점수1+ 
@@ -22,6 +23,8 @@ public class Main_bj_17281_야구3 {
 			for (int j = 0; j < M; j++) {
 				hitter[i][j]=scann.nextInt();
 			}
+			
+			
 		}
 		max=-1;
 		do {
