@@ -1,3 +1,4 @@
+package SSAFY;
 
 public class SWEA_1953_탐주범검거 {
 	/*

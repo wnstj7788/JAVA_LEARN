@@ -1,3 +1,5 @@
+package SSAFY;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-import com.sun.imageio.plugins.common.InputStreamAdapter;
 
 public class SWEA_2112_보호필름 {
 	static int D, W, K;

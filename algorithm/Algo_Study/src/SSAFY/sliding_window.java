@@ -1,3 +1,5 @@
+package SSAFY;
+
 import java.util.Scanner;
 
 import javax.crypto.Cipher;

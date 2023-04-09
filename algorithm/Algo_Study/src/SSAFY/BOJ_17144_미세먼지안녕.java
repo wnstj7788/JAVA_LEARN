@@ -1,3 +1,5 @@
+package SSAFY;
+
 import java.io.*;
 import java.util.*;
 public class BOJ_17144_미세먼지안녕 {

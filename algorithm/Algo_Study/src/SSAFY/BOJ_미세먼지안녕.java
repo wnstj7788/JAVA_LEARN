@@ -1,3 +1,4 @@
+package SSAFY;
 
 public class BOJ_미세먼지안녕 {
 	static int R, C, T;

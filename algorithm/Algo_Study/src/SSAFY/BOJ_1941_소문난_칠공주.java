@@ -1,6 +1,7 @@
+package SSAFY;
+
 import java.util.*;
 import java.io.*;
-import java.awt.*;
 
 
 public class BOJ_1941_소문난_칠공주 {

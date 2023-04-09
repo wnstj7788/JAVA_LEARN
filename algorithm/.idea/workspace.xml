@@ -5,8 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/Knapsack/BOJ_7579_앱.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_1325_효율적인해킹.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17135_캐슬디펜스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17135_캐슬디펜스_re.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/Main_17135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1767_프로세서연결하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2105_디저트카페.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2117_홈방범서비스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2117_홈방범서비스_re.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_5653_줄기세포배양.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWTest_2105.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_16236.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_16236.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_17135_캐슬디펜스.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_17144_미세먼지안녕.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17144_미세먼지안녕.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_1941_소문난_칠공주.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_1941_소문난_칠공주.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2458_키순서.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2458_키순서.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2458_키순서2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2458_키순서2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2531_회전초밥.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2531_회전초밥.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2567_색종이2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2567_색종이2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_3055_탈출.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_3055_탈출.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_9205_맥주마시면서걸어가기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_9205_맥주마시면서걸어가기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_미세먼지안녕.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_미세먼지안녕.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1486_장훈이의높은선반.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1486_장훈이의높은선반.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1767_프로세서연결하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1953_탐주범검거.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1953_탐주범검거.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2112_보호필름.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2112_보호필름.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2112_보호필름2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2112_보호필름2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2382_미생물격리.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2382_미생물격리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2383_점심식사시간.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2383_점심식사시간.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/comb_perm_subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/comb_perm_subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo_Study/src/sliding_window.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/sliding_window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +78,22 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algo_Study/src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SSAFY" />
       <recent name="" />
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_7579_앱">
-    <configuration name="BOJ_11660_구간합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_11660_구간합" />
-      <module name="ReStore" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_12865_평범한배낭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Knapsack.BOJ_12865_평범한배낭" />
+  <component name="RunManager" selected="Application.SWEA_2105_디저트카페">
+    <configuration name="BOJ_17135_캐슬디펜스_re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_17135_캐슬디펜스_re" />
       <module name="Algo_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Knapsack.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,19 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_13335_트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_13335_트럭" />
-      <module name="baaaaaaaaaakingDog_시뮬레이션" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_14003_가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LIS.BOJ_14003_가장긴증가하는부분수열" />
+    <configuration name="SWEA_2105_디저트카페" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.SWEA_2105_디저트카페" />
       <module name="Algo_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LIS.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +114,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_7579_앱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Knapsack.BOJ_7579_앱" />
+    <configuration name="SWEA_2105_디저트카페1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.SWEA_2105_디저트카페1" />
       <module name="Algo_Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Knapsack.*" />
+          <option name="PATTERN" value="SSAFY.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_2117_홈방범서비스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.SWEA_2117_홈방범서비스" />
+      <module name="Algo_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_2117_홈방범서비스_re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.SWEA_2117_홈방범서비스_re" />
+      <module name="Algo_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_7579_앱" />
-        <item itemvalue="Application.BOJ_11660_구간합" />
-        <item itemvalue="Application.BOJ_12865_평범한배낭" />
-        <item itemvalue="Application.BOJ_14003_가장긴증가하는부분수열" />
-        <item itemvalue="Application.BOJ_13335_트럭" />
+        <item itemvalue="Application.SWEA_2105_디저트카페" />
+        <item itemvalue="Application.SWEA_2105_디저트카페1" />
+        <item itemvalue="Application.SWEA_2117_홈방범서비스_re" />
+        <item itemvalue="Application.SWEA_2117_홈방범서비스" />
+        <item itemvalue="Application.BOJ_17135_캐슬디펜스_re" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +188,9 @@
       <workItem from="1679753502230" duration="21000" />
       <workItem from="1679827310357" duration="2122000" />
       <workItem from="1679839716370" duration="40000" />
+      <workItem from="1680875183664" duration="2688000" />
+      <workItem from="1680927800507" duration="23897000" />
+      <workItem from="1681015251391" duration="19294000" />
     </task>
     <servers />
   </component>

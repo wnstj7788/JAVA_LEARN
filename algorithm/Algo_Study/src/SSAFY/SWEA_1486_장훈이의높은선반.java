@@ -1,10 +1,11 @@
+package SSAFY;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-import sun.util.locale.StringTokenIterator;
 
 public class SWEA_1486_장훈이의높은선반 {
 
