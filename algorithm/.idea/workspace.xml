@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_1325_효율적인해킹.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17135_캐슬디펜스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17135_캐슬디펜스_re.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/Main_17135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1767_프로세서연결하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2105_디저트카페.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2117_홈방범서비스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2117_홈방범서비스_re.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_5653_줄기세포배양.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWTest_2105.java" afterDir="false" />
+    <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="lego">
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/프로세서연결하기최종.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_16236.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_16236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_17135_캐슬디펜스.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_17144_미세먼지안녕.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_17144_미세먼지안녕.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_1941_소문난_칠공주.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_1941_소문난_칠공주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2458_키순서.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2458_키순서.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2458_키순서2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2458_키순서2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2531_회전초밥.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2531_회전초밥.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_2567_색종이2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_2567_색종이2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_3055_탈출.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_3055_탈출.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_9205_맥주마시면서걸어가기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_9205_맥주마시면서걸어가기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/BOJ_미세먼지안녕.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/BOJ_미세먼지안녕.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1486_장훈이의높은선반.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1486_장훈이의높은선반.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1767_프로세서연결하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_1953_탐주범검거.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_1953_탐주범검거.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2112_보호필름.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2112_보호필름.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2112_보호필름2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2112_보호필름2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2382_미생물격리.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2382_미생물격리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/SWEA_2383_점심식사시간.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/SWEA_2383_점심식사시간.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/comb_perm_subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/comb_perm_subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/src/sliding_window.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/sliding_window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,12 +160,24 @@
       <workItem from="1679839716370" duration="40000" />
       <workItem from="1680875183664" duration="2688000" />
       <workItem from="1680927800507" duration="23897000" />
-      <workItem from="1681015251391" duration="19294000" />
+      <workItem from="1681015251391" duration="21021000" />
     </task>
+    <task id="LOCAL-00001" summary="lego">
+      <created>1681042022475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681042022475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lego" />
+    <option name="LAST_COMMIT_MESSAGE" value="lego" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
