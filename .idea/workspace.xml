@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfeeefa9-3d30-467f-8149-e0f7ae06d8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/Algo_Study/src/LCA/BOJ_1148_LCA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/ReStore/src/BOJ_15651_N과M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/ReStore/src/BOJ_15686_치킨배달.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfeeefa9-3d30-467f-8149-e0f7ae06d8d9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/Code/JAVA_LEARN/algorithm",
+    "last_opened_file_path": "/Users/choijunseo/Desktop/code/java1",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,6 +37,7 @@
       <updated>1678107816309</updated>
       <workItem from="1678107817462" duration="17000" />
       <workItem from="1679147005034" duration="1606000" />
+      <workItem from="1681308740947" duration="107000" />
     </task>
     <servers />
   </component>

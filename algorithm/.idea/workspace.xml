@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ccf2150-53c2-498b-af50-1fe29de6ffaa" name="Changes" comment="lego">
-      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/프로세서연결하기최종.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/src/SSAFY/로봇청소기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +58,9 @@
       <recent name="baaaaaaaaaakingDog_Dijkstra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SWEA_2105_디저트카페">
-    <configuration name="BOJ_17135_캐슬디펜스_re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_17135_캐슬디펜스_re" />
+  <component name="RunManager" selected="Application.로봇청소기">
+    <configuration name="로봇청소기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.로봇청소기" />
       <module name="Algo_Study" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.로봇청소기" />
         <item itemvalue="Application.SWEA_2105_디저트카페" />
         <item itemvalue="Application.SWEA_2105_디저트카페1" />
         <item itemvalue="Application.SWEA_2117_홈방범서비스_re" />
         <item itemvalue="Application.SWEA_2117_홈방범서비스" />
-        <item itemvalue="Application.BOJ_17135_캐슬디펜스_re" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +162,7 @@
       <workItem from="1680875183664" duration="2688000" />
       <workItem from="1680927800507" duration="23897000" />
       <workItem from="1681015251391" duration="21021000" />
+      <workItem from="1681308853327" duration="3040000" />
     </task>
     <task id="LOCAL-00001" summary="lego">
       <created>1681042022475</created>
